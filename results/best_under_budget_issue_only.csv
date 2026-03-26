@@ -1,0 +1,6 @@
+workload,selected_experiment,rob,issue_width,ipc,cost,branch_mispredict_rate,l1d_miss_rate,squashing_cycles,stats_path
+compute1,issue_2,128,2,0.102599,160,0.005714761746084638,0.38463,3125.0,results/compute1/issue_2/stats.txt
+compute2,issue_4,128,4,1.27839,192,0.0065578795033013485,0.331591,13480.0,results/compute2/issue_4/stats.txt
+memory1,issue_4,128,4,0.550846,192,0.005536879345948238,0.033385,9575.0,results/memory1/issue_4/stats.txt
+memory2,issue_4,128,4,1.345175,192,0.0034889743848687317,0.038113,3252.0,results/memory2/issue_4/stats.txt
+branch1,issue_4,128,4,0.760464,192,0.003989112161831185,0.000125,67554.0,results/branch1/issue_4/stats.txt
